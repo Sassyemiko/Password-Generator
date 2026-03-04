@@ -70,7 +70,7 @@ index.html uses Jinja2 templating for dynamic rendering
 🚀 How to Run It (In <60 Seconds)<br><br>
 
 🔹Clone the repo<br>
-git clone https://github.com/your-username/password-generator.git<br>
+git clone https://github.com/Sassyemiko/Password-generators.git<br>
 cd password-generator<br><br>
 
 🔹Install dependencies<br>
