@@ -46,7 +46,7 @@ website → username → password<br>
 Mobile-responsive layout (works on phones, tablets, and desktops)<br><br>
 
 🔹 Save Credentials Locally<br>
-Save generated passwords to passwords.txt with a single click
+Save generated passwords to passwords.txt with a single click<br>
 Format: Website | Username | Password
 → Perfect for offline backups or importing into password managers<br><br>
 
@@ -56,7 +56,7 @@ Handles invalid lengths gracefully
 Friendly, human-readable error messages (not cryptic HTTP codes!)<br><br>
 
 🔹 Extensible Architecture<br>
-The code is modular and well-commented:
+The code is modular and well-commented:<br>
 generate_password() isolates password logic
 app.py follows Flask best practices
 index.html uses Jinja2 templating for dynamic rendering
