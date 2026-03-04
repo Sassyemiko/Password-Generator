@@ -7,35 +7,6 @@ Secure Password Generator is a sleek, interactive web application that helps use
 Unlike traditional CLI-based tools (which require typing commands and reading terminal output), Secure Password Generator lets you generate, review, and save passwords with just a few clicks — making it perfect for developers, students, educators, or anyone who values privacy and security.<br><br>
 
 🛠️ Tech Stack
-<!DOCTYPE html>
-<html>
-<head>
-    <title>HTML Table Example</title>
-    <style>
-        table {
-            width: 50%;
-            border-collapse: collapse; /* Removes gaps between borders */
-            margin: 20px auto;
-            font-family: Arial, sans-serif;
-        }
-        th, td {
-            border: 1px solid #ddd; /* Adds borders to cells */
-            padding: 10px;
-            text-align: center;
-        }
-        th {
-            background-color: #f4f4f4; /* Light gray background for headers */
-            color: #333;
-        }
-        tr:nth-child(even) {
-            background-color: #f9f9f9; /* Alternating row colors */
-        }
-        tr:hover {
-            background-color: #f1f1f1; /* Highlight rows on hover */
-        }
-    </style>
-</head>
-<body>
     <table>
         <tr>
             <th>Name</th>
@@ -58,5 +29,3 @@ Unlike traditional CLI-based tools (which require typing commands and reading te
             <td>Works locally • Easily deployable on Render, Heroku, or PythonAnywhere</td>
         </tr>
     </table>
-</body>
-</html>
