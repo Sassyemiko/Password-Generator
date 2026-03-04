@@ -57,11 +57,9 @@ index.html uses Jinja2 templating for dynamic rendering
 📋 Add "Copy to Clipboard" functionality<br>
 🌙 Dark/light mode toggle<br>
 🔑 User authentication for public hosting<br><br>
-🚀 How to Run It (In <60 Seconds)
-Clone the repo
-bash
-12
-git clone https://github.com/your-username/password-generator.git
+🚀 How to Run It (In <60 Seconds)<br><br>
+Clone the repo<br>
+git clone https://github.com/your-username/password-generator.git<br>
 cd password-generator
 Install dependencies
 bash
