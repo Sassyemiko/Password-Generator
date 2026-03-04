@@ -11,8 +11,8 @@ Unlike traditional CLI-based tools (which require typing commands and reading te
 🛠️ Tech Stack
     <table>
         <tr>
-            <th>Name</th>
-            <th>Subject</th>
+            <th>Layer</th>
+            <th>Technology</th>
         </tr>
         <tr>
             <td>Backend</td>
