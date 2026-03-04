@@ -53,9 +53,9 @@ generate_password() isolates password logic
 app.py follows Flask best practices
 index.html uses Jinja2 templating for dynamic rendering
 → Easy to extend with features like:<br><br>
-🔒 Encrypt saved passwords (e.g., with cryptography)
-📋 Add "Copy to Clipboard" functionality
-🌙 Dark/light mode toggle
+🔒 Encrypt saved passwords (e.g., with cryptography)<br>
+📋 Add "Copy to Clipboard" functionality<br>
+🌙 Dark/light mode toggle<br>
 🔑 User authentication for public hosting<br><br>
 🚀 How to Run It (In <60 Seconds)
 Clone the repo
