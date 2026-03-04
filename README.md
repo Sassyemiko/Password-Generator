@@ -29,3 +29,45 @@ Unlike traditional CLI-based tools (which require typing commands and reading te
             <td>Works locally • Easily deployable on Render, Heroku, or PythonAnywhere</td>
         </tr>
     </table>
+<br><br>
+🎯 Key Features
+🔹 Strong Password Generation
+Guarantees at least one uppercase letter, one number, and one special symbol
+Fully customizable length (minimum 5 characters)
+Uses Python’s secrets module for cryptographically secure randomness
+🔹 User-Centric Design
+Clean, gradient-powered UI with soft shadows and rounded elements
+Clear visual hierarchy: website → username → password
+Mobile-responsive layout (works on phones, tablets, and desktops)
+🔹 Save Credentials Locally
+Save generated passwords to passwords.txt with a single click
+Format: Website | Username | Password
+→ Perfect for offline backups or importing into password managers
+🔹 Robust Error Handling
+Validates empty inputs
+Handles invalid lengths gracefully
+Friendly, human-readable error messages (not cryptic HTTP codes!)
+🔹 Extensible Architecture
+The code is modular and well-commented:
+generate_password() isolates password logic
+app.py follows Flask best practices
+index.html uses Jinja2 templating for dynamic rendering
+→ Easy to extend with features like:
+🔒 Encrypt saved passwords (e.g., with cryptography)
+📋 Add "Copy to Clipboard" functionality
+🌙 Dark/light mode toggle
+🔑 User authentication for public hosting
+🚀 How to Run It (In <60 Seconds)
+Clone the repo
+bash
+12
+git clone https://github.com/your-username/password-generator.git
+cd password-generator
+Install dependencies
+bash
+1
+Run the server
+bash
+1
+python app.py
+Open your browser
