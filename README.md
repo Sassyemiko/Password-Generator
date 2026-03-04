@@ -1,4 +1,4 @@
-🔐 Secure Password Generator<br>
+🔐 Secure Password Generator<br><br>
 A Modern Web-Based Tool for Strong Credentials Built with Python, Flask, and Cryptography Best Practices No Terminal Required! <br><br>
 ✅ Fully functional • Secure by design • Responsive UI • Clean code architecture<br>
 ✅ All dependencies are lightweight and standard — no heavy frameworks or external databases needed.<br><br>
