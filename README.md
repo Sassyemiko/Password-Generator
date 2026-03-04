@@ -79,3 +79,4 @@ pip install flask<br><br>
 🔹Run the server<br>
 python app.py
 
+<img width="915" height="678" alt="image" src="https://github.com/user-attachments/assets/6a819f3e-2e40-4417-adb8-97e09054b9d5" />
