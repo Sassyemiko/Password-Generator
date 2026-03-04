@@ -35,19 +35,19 @@ Unlike traditional CLI-based tools (which require typing commands and reading te
 Guarantees at least one uppercase letter, one number, and one special symbol
 Fully customizable length (minimum 5 characters)
 Uses Python’s secrets module for cryptographically secure randomness<br><br>
-🔹 User-Centric Design<br><br>
+🔹 User-Centric Design<br>
 Clean, gradient-powered UI with soft shadows and rounded elements
 Clear visual hierarchy: website → username → password
 Mobile-responsive layout (works on phones, tablets, and desktops)<br><br>
-🔹 Save Credentials Locally<br><br>
+🔹 Save Credentials Locally<br>
 Save generated passwords to passwords.txt with a single click
 Format: Website | Username | Password
 → Perfect for offline backups or importing into password managers<br><br>
-🔹 Robust Error Handling<br><br>
+🔹 Robust Error Handling<br>
 Validates empty inputs
 Handles invalid lengths gracefully
 Friendly, human-readable error messages (not cryptic HTTP codes!)<br><br>
-🔹 Extensible Architecture<br><br>
+🔹 Extensible Architecture<br>
 The code is modular and well-commented:
 generate_password() isolates password logic
 app.py follows Flask best practices
