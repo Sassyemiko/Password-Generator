@@ -31,8 +31,7 @@ Unlike traditional CLI-based tools (which require typing commands and reading te
             <td>Works locally • Easily deployable on Render, Heroku, or PythonAnywhere</td>
         </tr>
     </table>
-<br><br>
-
+<br>
 🎯 Key Features <br><br>
 
 🔹 Strong Password Generation<br><br>
